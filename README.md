@@ -17,7 +17,8 @@ Analysis of US medical insurance data.
 5. Analysis of BMI categories in each insurance premiums band
 
 ## Insurance premium loading for smokers
-
-### Fulfillment of course requirement
+- Insurance premium loading for smokers
+- 
+## Fulfillment of course requirement
 Data Scientist: Analytics Specialist course at http://www.codecademy.com.
  
